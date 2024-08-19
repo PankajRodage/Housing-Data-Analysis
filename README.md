@@ -46,15 +46,15 @@ Python 3.8+: Programming language used for analysis.
 Pip: Python package installer.
    
 # Usage
-Instructions
-To start the analysis, open Jupyter Notebook:
-Navigate to analysis.ipynb and run the cells to perform the data analysis.
+  # Instructions
+     To start the analysis, open Jupyter Notebook:
+     Navigate to analysis.ipynb and run the cells to perform the data analysis.
 
-Examples
-Basic Analysis: Execute cells to compute summary statistics and visualize data.
-Model Training: Run the cells under the "Predictive Modeling" section to train and evaluate models.
-Data Files
-Ensure you have the necessary data files (e.g., housing_data.csv) in the data or update the paths in the notebook accordingly.
+  # Examples
+     Basic Analysis: Execute cells to compute summary statistics and visualize data.
+     Model Training: Run the cells under the "Predictive Modeling" section to train and evaluate models.
+  # Data Files
+     Ensure you have the necessary data files (e.g., housing_data.csv) in the data or update the paths in the notebook accordingly.
 
 # Dependencies 
 This project depends on the following libraries:
@@ -66,38 +66,38 @@ This project depends on the following libraries:
 5. Jupyter Notebook: Version 6.4.0+
 
 # Contributing
-Guidelines
-Code Style: Follow PEP 8 coding standards.
-Branch Naming: Use descriptive names for branches (e.g., feature/add-visualizations).
-Commit Messages: Write clear, descriptive commit messages.
+   # Guidelines
+        Code Style: Follow PEP 8 coding standards.
+        Branch Naming: Use descriptive names for branches (e.g., feature/add-visualizations).
+        Commit Messages: Write clear, descriptive commit messages.
 
-Issues and Feedback
-Reporting Issues: Open an issue on the GitHub repository if you encounter bugs or have feature requests.
-Providing Feedback: Suggestions for improvements can be discussed in the issues section or through pull requests.
+  # Issues and Feedback
+        Reporting Issues: Open an issue on the GitHub repository if you encounter bugs or have feature requests.
+        Providing Feedback: Suggestions for improvements can be discussed in the issues section or through pull requests.
 
 # License 
 
 # Credits and Acknowledgments
-Contributors: Pankaj Shrishail Rodage
-Libraries: This project utilizes libraries like Pandas, NumPy, Matplotlib, and Seaborn. Thanks to their authors for these powerful tools.
-Resources: Special thanks to the data source providers and any other third-party resources used in this project.
+1. Contributors: Pankaj Shrishail Rodage
+2. Libraries: This project utilizes libraries like Pandas, NumPy, Matplotlib, and Seaborn. Thanks to their authors for these powerful tools.
+3. Resources: Special thanks to the data source providers and any other third-party resources used in this project.
 
 # For any questions, support, or feedback, please contact
 
-Name: Pankaj Shrishail Rodage
-Email: rodagepankaj441@gmail.com
-GitHub: github.com/PankajRodage
+ Name: Pankaj Shrishail Rodage
+ Email: rodagepankaj441@gmail.com
+ GitHub: github.com/PankajRodage
 
 # Badges
 
 # Future Work
-Feature Expansion: Adding new features like interactive dashboards or additional predictive models.
-Data Updates: Incorporating new datasets to enhance the analysis and predictions.
-Performance Improvement: Optimizing code for better performance and scalability.
+1. Feature Expansion: Adding new features like interactive dashboards or additional predictive models.
+2. Data Updates: Incorporating new datasets to enhance the analysis and predictions.
+3. Performance Improvement: Optimizing code for better performance and scalability.
 
 # References
-Pandas Documentation
-NumPy Documentation
-Matplotlib Documentation
-Seaborn Documentation
+1. Pandas Documentation
+2. NumPy Documentation
+3. Matplotlib Documentation
+4. Seaborn Documentation
 
