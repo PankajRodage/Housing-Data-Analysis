@@ -10,3 +10,19 @@ The project aims to provide insights into the housing market, helping stakeholde
 3. Modeling: Develop and evaluate multiple machine learning models to predict housing prices based on various factors.
 4. Model Evaluation: Compare the performance of different models and identify the best-performing one.
 5. Visualization: Create interactive visualizations to communicate findings and insights to stakeholders.
+
+# Installation:
+Programming languages: Python 
+Data analysis and visualization libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+Machine learning libraries: Scikit-learn
+Data visualization tools: Tableau, Power BI, or equivalent
+Domain knowledge of housing market and real estate industry
+Data cleaning and preprocessing
+Exploratory data analysis (EDA) using statistical and visualization techniques
+Feature engineering using domain knowledge and statistical methods
+Modeling using machine learning algorithms (e.g., linear regression, decision trees, random forests)
+Model evaluation using metrics (e.g., mean absolute error, R-squared)
+Visualization using interactive tools (e.g., Tableau, Power BI)
+
+# Usage:
+
