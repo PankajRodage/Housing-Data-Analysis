@@ -13,7 +13,9 @@ The project aims to provide insights into the housing market, helping stakeholde
 
 # Installation:
 Programming languages: Python 
+
 Data analysis and visualization libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+
 Machine learning libraries: Scikit-learn
 Data visualization tools: Tableau, Power BI, or equivalent
 Domain knowledge of housing market and real estate industry
