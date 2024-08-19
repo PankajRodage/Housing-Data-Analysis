@@ -13,18 +13,20 @@ The project aims to provide insights into the housing market, helping stakeholde
 
 # Installation:
 Programming languages: Python 
-
 Data analysis and visualization libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly
-
 Machine learning libraries: Scikit-learn
 Data visualization tools: Tableau, Power BI, or equivalent
 Domain knowledge of housing market and real estate industry
-Data cleaning and preprocessing
-Exploratory data analysis (EDA) using statistical and visualization techniques
-Feature engineering using domain knowledge and statistical methods
-Modeling using machine learning algorithms (e.g., linear regression, decision trees, random forests)
-Model evaluation using metrics (e.g., mean absolute error, R-squared)
-Visualization using interactive tools (e.g., Tableau, Power BI)
+1. Data cleaning and preprocessing
+2. Exploratory data analysis (EDA) using statistical and visualization techniques
+3. Feature engineering using domain knowledge and statistical methods
+4. Modeling using machine learning algorithms (e.g., linear regression, decision trees, random forests)
+5. Model evaluation using metrics (e.g., mean absolute error, R-squared)
+6. Visualization using interactive tools (e.g., Tableau, Power BI)
 
 # Usage:
+1. A comprehensive report detailing the findings and insights from the analysis
+2. A set of interactive visualizations to communicate results to stakeholders
+3. A Python notebook or R script containing the code for data cleaning, feature engineering, modeling, and visualization
+4. A presentation summarizing the key findings and implications for stakeholders
 
