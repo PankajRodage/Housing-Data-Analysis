@@ -1,22 +1,21 @@
 # Project Title: Housing-Data-Analysis
 
 # Project Overview:
-The goal of this project is to analyze a comprehensive dataset of housing data to identify trends, patterns, and correlations between various factors that influence housing prices.
-The project aims to provide insights into the housing market, helping stakeholders make informed decisions about investments, policy-making, and urban planning.
+This project provides an in-depth analysis of housing data to uncover trends, insights, and patterns. 
+The analysis includes statistical summaries, visualizations, and predictive modeling to help understand the factors influencing housing prices and trends in the housing market.
 
 # Table of Contents:
-1. Data Exploration: Explore the housing dataset to understand the distribution of variables, identify correlations, and detect outliers.
-2. Feature Engineering: Create new features from existing ones to improve model performance and provide additional insights.
-3. Modeling: Develop and evaluate multiple machine learning models to predict housing prices based on various factors.
-4. Model Evaluation: Compare the performance of different models and identify the best-performing one.
-5. Visualization: Create interactive visualizations to communicate findings and insights to stakeholders.
+1. Project Purpose
+2. Data Description
+3. Analysis Methods
+4. Installation and Setup
+5. Usage
+6. Results
+7. Contributing
+8. License
 
 # Installation:
-Programming languages: Python 
-Data analysis and visualization libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly
-Machine learning libraries: Scikit-learn
-Data visualization tools: Tableau, Power BI, or equivalent
-Domain knowledge of housing market and real estate industry
+
 1. Data cleaning and preprocessing
 2. Exploratory data analysis (EDA) using statistical and visualization techniques
 3. Feature engineering using domain knowledge and statistical methods
@@ -30,3 +29,7 @@ Domain knowledge of housing market and real estate industry
 3. A Python notebook or R script containing the code for data cleaning, feature engineering, modeling, and visualization
 4. A presentation summarizing the key findings and implications for stakeholders
 
+# Dependencies: 
+Programming languages: Python 
+Data analysis and visualization libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+Domain knowledge of housing market and real estate industry
