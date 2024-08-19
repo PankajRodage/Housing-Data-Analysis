@@ -1,7 +1,7 @@
-# Project Title:
+# Project Title
 # Housing-Data-Analysis
 
-# Project Overview:
+# Project Overview
 The Housing Data Analysis project explores housing market data to uncover insights related to housing prices, market trends, and influential factors.
 This analysis uses a variety of statistical and machine learning techniques to visualize trends, clean and preprocess data, and develop predictive models to forecast housing prices.
 
@@ -14,7 +14,7 @@ Exploratory Data Analysis (EDA): Visualizations and statistical summaries to und
 Predictive Modeling: Development of models like Linear Regression and Decision Trees to predict housing prices.
 Visualization: Interactive and static plots to illustrate key findings and trends.
 
-# Table of Contents:
+# Table of Contents
 1. Project Title
 2. Project Description
      Overview
@@ -38,14 +38,14 @@ Visualization: Interactive and static plots to illustrate key findings and trend
 11. Future Work
 12. References
 
-# Installation:
+# Installation
 Prerequisites
 Before setting up the project, ensure you have the following installed:
 
 Python 3.8+: Programming language used for analysis.
 Pip: Python package installer.
    
-# Usage:
+# Usage
 Instructions
 To start the analysis, open Jupyter Notebook:
 Navigate to analysis.ipynb and run the cells to perform the data analysis.
@@ -56,16 +56,16 @@ Model Training: Run the cells under the "Predictive Modeling" section to train a
 Data Files
 Ensure you have the necessary data files (e.g., housing_data.csv) in the data or update the paths in the notebook accordingly.
 
-# Dependencies: 
+# Dependencies 
 This project depends on the following libraries:
 
-Pandas: Version 1.4.0+
-NumPy: Version 1.22.0+
-Matplotlib: Version 3.5.1+
-Seaborn: Version 0.11.2+
-Jupyter Notebook: Version 6.4.0+
+1. Pandas: Version 1.4.0+
+2. NumPy: Version 1.22.0+
+3. Matplotlib: Version 3.5.1+
+4. Seaborn: Version 0.11.2+
+5. Jupyter Notebook: Version 6.4.0+
 
-# Contributing:
+# Contributing
 Guidelines
 Code Style: Follow PEP 8 coding standards.
 Branch Naming: Use descriptive names for branches (e.g., feature/add-visualizations).
@@ -75,14 +75,14 @@ Issues and Feedback
 Reporting Issues: Open an issue on the GitHub repository if you encounter bugs or have feature requests.
 Providing Feedback: Suggestions for improvements can be discussed in the issues section or through pull requests.
 
-# License: 
+# License 
 
 # Credits and Acknowledgments
 Contributors: Pankaj Shrishail Rodage
 Libraries: This project utilizes libraries like Pandas, NumPy, Matplotlib, and Seaborn. Thanks to their authors for these powerful tools.
 Resources: Special thanks to the data source providers and any other third-party resources used in this project.
 
-# For any questions, support, or feedback, please contact:
+# For any questions, support, or feedback, please contact
 
 Name: Pankaj Shrishail Rodage
 Email: rodagepankaj441@gmail.com
