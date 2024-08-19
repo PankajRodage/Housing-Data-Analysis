@@ -15,19 +15,24 @@ The analysis includes statistical summaries, visualizations, and predictive mode
 8. License
 
 # Installation:
-
-1. Data cleaning and preprocessing
-2. Exploratory data analysis (EDA) using statistical and visualization techniques
-3. Feature engineering using domain knowledge and statistical methods
-4. Modeling using machine learning algorithms (e.g., linear regression, decision trees, random forests)
-5. Model evaluation using metrics (e.g., mean absolute error, R-squared)
-6. Visualization using interactive tools (e.g., Tableau, Power BI)
-
+Prerequisites:
+1. Python (Version 3.7 or higher)
+2. JupyterNotebook
+3. Libraries: Pandas, Numpy
+4. Visualization Tools: Matplotlib, Seaborn
+   
 # Usage:
-1. A comprehensive report detailing the findings and insights from the analysis
-2. A set of interactive visualizations to communicate results to stakeholders
-3. A Python notebook or R script containing the code for data cleaning, feature engineering, modeling, and visualization
-4. A presentation summarizing the key findings and implications for stakeholders
+1. Prepare Environment:
+   Ensure I have completed the installation steps and have the virtual environment activated.
+   1. Loading Data
+     import pandas as pd
+     data = pd.read_csv('housing_data.csv')
+   2. Interacting with Data
+      After loading, you can interact with the data using Pandas functions or visualization libraries:
+      # View the first few rows
+        print(data.head())
+      # Describe the dataset
+       print(data.describe())
 
 # Dependencies: 
 Programming languages: Python 
