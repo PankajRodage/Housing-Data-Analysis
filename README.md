@@ -1,4 +1,4 @@
-# Project Title - Housing-Data-Analysis
+# Housing-Data-Analysis
 
 # Project Overview
 The Housing Data Analysis project explores housing market data to uncover insights related to housing prices, market trends, and influential factors.
