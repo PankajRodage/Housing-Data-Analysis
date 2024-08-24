@@ -53,7 +53,7 @@ Pip: Python package installer.
      Basic Analysis: Execute cells to compute summary statistics and visualize data.
      Model Training: Run the cells under the "Predictive Modeling" section to train and evaluate models.
   ### Data Files
-     Ensure you have the necessary data files (e.g., housing_data.csv) in the data or update the paths in the notebook accordingly.
+     Ensure you have the necessary data files (e.g., Ames_Housing_Subset.csv) in the data or update the paths in the notebook accordingly.
 
 # Dependencies 
 This project depends on the following libraries:
