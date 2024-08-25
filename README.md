@@ -83,9 +83,9 @@ This project depends on the following libraries:
 
 # For any questions, support, or feedback, please contact
 
- Name: Pankaj Shrishail Rodage
- Email: rodagepankaj441@gmail.com
- GitHub: github.com/PankajRodage
+ ● Name: Pankaj Shrishail Rodage
+ ● Email: rodagepankaj441@gmail.com
+ ● GitHub: github.com/PankajRodage
 
 # Badges
 
